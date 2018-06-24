@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version 0.2
 Name:		texlive-clipboard
-Version:	0.2
-Release:	10
+Version:	0.3
+Release:	1
 Summary:	Copy and paste into and across documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/clipboard
