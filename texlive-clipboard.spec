@@ -1,6 +1,6 @@
 Name:		texlive-clipboard
 Version:	47747
-Release:	1
+Release:	2
 Summary:	Copy and paste into and across documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/clipboard
