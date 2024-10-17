@@ -3,7 +3,7 @@ Version:	47747
 Release:	2
 Summary:	Copy and paste into and across documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/clipboard
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/clipboard
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/clipboard.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/clipboard.doc.r%{version}.tar.xz
